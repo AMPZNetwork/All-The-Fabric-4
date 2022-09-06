@@ -1,7 +1,7 @@
 ![](https://www.bisecthosting.com/images/CF/ATF4/BH_NU_HEADER.png)
 ======
 
-This is the official repository and issue-tracker for All The Forge 9
+This is the official repository and issue-tracker for All The Fabric 4
     
 #### Modpack Links: 
 + [CurseForge ](https://www.curseforge.com/minecraft/modpacks/all-the-fabric-4)
