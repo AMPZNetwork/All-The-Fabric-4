@@ -40,7 +40,7 @@ _Minecraft 1.19.2_ | _Fabric Loader 0.14.9_
 + Roughly Enough Items (9.1.530 → 9.1.550)
 + Sodium Extra (0.4.10 → 0.4.11)
 + Tree Harvester (5.6 → 5.8)
-+ Traveler's Backpack (8.20 → 8.2.3)
++ Traveler's Backpack (8.20 → 8.2.5)
 + Universal Graves (2.1.1 → 2.1.2)
 + YetAnotherConfigLib (0.1.2 → 1.5.0)
 + William Wythers' Overhauled Overworld (3.1.7 → 3.1.8)
