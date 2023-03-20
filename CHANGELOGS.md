@@ -1,9 +1,89 @@
 [![](https://www.bisecthosting.com/images/CF/ATF4/BH_NU_PROMO.png) ](https://bisecthosting.com/AMPZ)
 
----------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 # All The Fabric 4 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
----------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+<h1>V4</h1>
+
+_Minecraft 1.19.2_ | _Fabric Loader 0.14.17_
+
+**Updated:**
++ Almost Unified (0.2.0 → 0.3.6)
++ Applied Energistics 2 (12.9.1 → 12.9.2)
++ Applied Energistics 2 Wireless Terminals (12.8.4 → 12.8.5)
++ Architectury API (6.4.62 → 6.5.69)
++ Axolotl Bucket Fix (1.1.3 → 1.1.4)
++ Balm (4.5.2 → 4.5.7)
++ BCLib (2.1.4 → 2.1.6)
++ BetterEnd (2.1.2 → 2.1.4)
++ BetterNether (7.1.2 → 7.1.3)
++ Bookshelf (16.1.11 → 16.2.18)
++ Continuity (2.0.1 → 2.0.2)
++ Cooking for Blockheads (13.3.0 → 13.3.1)
++ Custom Entity Models (0.7.1 → 0.7.3)
++ Default Options (15.0.0 → 15.0.1)
++ Drippy Loading Screen (1.6.6 → 2.1.1)
++ Elytra Slot (6.0.0 → 6.1.0)
++ Entity Culling Fabric/Forge (1.5.2 → 1.6.1)
++ Entity Texture Features (4.2.0 → 4.3.3)
++ Fabric API (0.68.0 → 0.76.0)
++ Fabric Language Kotlin (1.8.7 → 1.9.2)
++ Fabric Waystones (3.0.5 → 3.0.7)
++ FancyMenu (2.13.0 → 2.13.3)
++ Farming for Blockheads (11.1.0 → 11.2.0)
++ Fix Experience Bug (18 → 19)
++ Forge Config API Port (v4.2.9 → v4.2.11)
++ Iris Shaders (1.4.4 → 1.5.2)
++ Jade (8.6.3 → 8.7.3)
++ JamLib (0.5.0 → 0.6.0)
++ JourneyMap (5.9.0beta4 → 5.9.4)
++ LambDynamicLights (2.1.2 → 2.2.0)
++ Language Reload (1.4.1 → 1.5.6)
++ Lithium (0.10.4 → 0.11.1)
++ NetherPortalFix (10.0.0 → 10.0.1)
++ Paradise Lost (2.0.2 → 2.1.0)
++ Pehkui (3.6.0 → 3.7.0)
++ Quarry Reborn (1.0.2 → 1.0.3)
++ Roughly Enough Items (9.1.577 → 9.1.595)
++ Sodium Extra (0.4.14 → 0.4.16)
++ Simple Discord RPC (3.2.1 → 3.2.2)
++ The Twilight Forest (4.2.310 → 4.2.335)
++ TrashSlot (12.0.1 → 12.0.2)
++ Traveler's Backpack (8.2.9 → 8.2.16)
++ Trinkets (3.4.1 → 3.4.2)
++ William Wythers' Overhauled Overworld (3.1.9 → 3.1.9.1)
++ YetAnotherConfigLib (1.7.1 → 2.2.0)
++ YUNG's API (3.8.2 → 3.8.9)
+
+**Changed/Fixed**
++ Fixed a crash when opening the inventory with an enchanted item. [Reported here](https://discordapp.com/channels/495506209881849856/1080107315413385216)
++ Fixed loot table modifiers preventing other mods from modifying loot tables dynamically.
++ Fixed an issue with some configs not loading currectly.
++ Fixed a crash with JourneyMap with empty Waystone names.
++ Fixed a crash if a painting failed to place during Lich Tower generation.
++ Fixed the block and chain not being repairable in anvils.
++ Added Oh The Biomes You'll Go items to Farming for blockheads market.
++ Updated CurseForge icon to their new rebranded one.
++ Updated Suggestions, Store and Forums URL.
++ Small UI Tweaks.
+
+**Added:**
++ Tree Harvester
++ Collective 
++ Harvest with ease
++ YUNG's Better Nether Fortresses
+
+**Removed:**
++ RightClickHarvest
++ Tree Harvester (Legacy)
++ Collective (Legacy)
++ Login Protection
++ Blur
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-4)
+
+---------------------------------------------------------------------------------
 <h1>V3</h1>
 
 <br>1.19.3 upgrade coming 2023</br>
