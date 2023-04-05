@@ -4,6 +4,40 @@
 # All The Fabric 4 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -----------------------------------------------------------------------------------------------
+<h1>V5</h1>
+
+_Minecraft 1.19.2_ | _Fabric Loader 0.14.18_
+
+**Updated:**
++ Almost Unified (0.3.6 → 0.3.7)
++ BisectHosting Server Integration Menu (1.3 → 2.1)
++ Fabric Language Kotlin (1.8.10 → 1.8.20)
++ FancyMenu (2.13.3 → 2.14.1)
++ JourneyMap (5.9.4 → 5.9.5)
++ Harvest with ease (6.0.0.0 → 6.0.1.1)
++ Pehkui (3.7.0 → 3.7.2)
++ Traveler's Backpack (8.2.16 → 8.2.17)
++ TerraBlender (2.0.1.130 → 2.0.1.136)
+
+**Changed/Fixed**
++ Fixed a crash when right clicking tall crops.
++ Fixed: Cave and Surface Render distance sliders.
++ Added the ability to rent a Minecraft server using our partner BisectHosting find it in the multiplayer screen.
++ Added the ablilty to view other public servers that use this pack and are hosted on BisectHosting.
++ Removed a few client side only mods from the server files.
++ New splashscreen and loading screen images.
+
+**Added:**
++ Trample No More
++ Macaw's Bridges
++ Paginated Advancements & Custom Frames
+
+**Removed:**
++ Better Advancements
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-4)
+
+---------------------------------------------------------------------------------
 <h1>V4</h1>
 
 _Minecraft 1.19.2_ | _Fabric Loader 0.14.17_
