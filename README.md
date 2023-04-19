@@ -7,6 +7,7 @@ This is the official repository and issue-tracker for All The Fabric 4
 + [CurseForge ](https://www.curseforge.com/minecraft/modpacks/all-the-fabric-4)
 + [Technic Launcher](https://www.technicpack.net/modpack/all-the-fabric-4.1932437)
 + [ATLauncher](https://atlauncher.com/pack/AllTheFabric4)
++ [Modrinth](https://modrinth.com/modpack/all-the-fabric-4)
   
 Need Help?
 ======
