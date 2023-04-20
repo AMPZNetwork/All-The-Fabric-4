@@ -4,6 +4,54 @@
 # All The Fabric 4 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -----------------------------------------------------------------------------------------------
+<h1>V6</h1>
+
+_Minecraft 1.19.2_ | _Fabric Loader 0.14.19_
+
+**Updated:**
++ Almost Unified (0.3.7 → 0.4.1)
++ Applied Energistics 2 (12.9.2 → 12.9.3)
++ Architectury API (6.5.69 → 6.5.77)
++ BisectHosting Server Integration Menu (2.1 → 2.2)
++ Drippy Loading Screen (2.1.1 → 2.2.0)
++ FancyMenu (2.14.1 → 2.14.4)
++ Iris Shaders (1.5.2 → 1.6.1)
++ Paginated Advancements & Custom Frames (2.0.0 → 2.2.1)
++ Pehkui (3.7.2 → 3.7.3)
++ The Twilight Forest (4.2.335 → 4.2.357)
++ Traveler's Backpack (8.2.17 → 8.2.18)
+
+**Changed/Fixed**
++ Fixed interfaces and PPs not saving after inv changes.
++ Fixed a terminal fluid dupe.
++ Fixed facades not using the correct biome colours.
++ Fixed an issue where you could plant multiple magic beans in the same block space.
++ Fixed holding giant tools giving the player more reach for every interaction than just the tools themselves.
++ Fixed memory slots not accepting items with different durability value.
++ Fixed the block and chain not being repairable in anvils.
++ Fixed the block and chain not properly disabling shields.
++ Mushrooms no longer break when next to a portal.
++ Decreased spawn chance of mobs with backpack.
++ Updated Suggestions button URL.
+
+**Added:**
++ FuelInfo
++ Adaptive Tooltips
++ Connectible Chains 
++ Couplings
++ Light Overlay
+
+**Removed:**
++ Harvest with ease
++ Sodium (CurseForge Only)
++ Reese's Sodium Options (CurseForge Only)
++ Sodium Extra (CurseForge Only)
++ Iris Shaders (CurseForge Only)
++ Indium (CurseForge)
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-4)
+
+---------------------------------------------------------------------------------
 <h1>V5</h1>
 
 _Minecraft 1.19.2_ | _Fabric Loader 0.14.18_
