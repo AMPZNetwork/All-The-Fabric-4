@@ -28,6 +28,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Basic Informations (please complete the following information):**
  - OS: [e.g. Windows]
- - Fossilized Version [e.g. v1]
+ - All The Fabric 4 Version [e.g. v1]
  - Platform [e.g. technicpack]
  - Extra mods added by you [e.g. Optifine]
