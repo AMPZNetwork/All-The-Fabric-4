@@ -4,6 +4,63 @@
 # All The Fabric 4 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -----------------------------------------------------------------------------------------------
+<h1>V7</h1>
+
+<h4>No old worlds are not compatible with previous worlds.</h4>
+
+_Minecraft 1.19.3_ | _Fabric Loader 0.14.19_
+
+**Added:**
++ Oxidizing Lightning Rods!
++ Way Much Faster Oxidize
++ 2mal3's Recipes (See screenshots [here](https://modrinth.com/datapack/2mal3s-recipes/gallery) for a better understanding.)
++ Traverse
++ Universal Bone Meal
++ Universal Graves
++ Windchimes
++ Better Beds
++ Boat item view
++ CC: Restitched
++ Chunks fade in
++ Cinderscapes
++ ClickThrough
++ Enhanced Block Entities
++ Lanterns Belong on Walls
++ Let Sleeping Dogs Lie
++ Light Overlay
++ Model Gap Fix
++ More Mob Variants
++ Presence Footsteps
++ Quick Shulker
++ Refined Advancements
++ Reinforced Barrels
++ Reinforced Shulker Boxes
++ Smooth Swapping
++ Terrestria
++ The Graveyard
++ Towns and Towers
++ Clear Despawn
++ Plus most of the mods from v6
+
+**Removed:**
++ Paridase Lost
++ Twilight Forest
++ Better End
++ Better Nether
++ Bewitchment
++ More Villagers
++ More Axolotl Variants Mod
++ More Frogs
++ All Dimension Height Increase
++ Oh The Biomes You'll Go
++ Fabric Quarry
++ YUNG's Better Nether Fortresses
++ FuelInfo
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-4)
+
+---------------------------------------------------------------------------------
 <h1>V6</h1>
 
 _Minecraft 1.19.2_ | _Fabric Loader 0.14.19_
