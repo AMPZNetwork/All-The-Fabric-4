@@ -4,6 +4,32 @@
 # All The Fabric 4 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -----------------------------------------------------------------------------------------------
+<h1>V7.1</h1>
+
+<h4>No old worlds are not compatible with previous worlds.</h4>
+
+_Minecraft 1.19.3_ | _Fabric Loader 0.14.21_
+
+**Updated:**
++ Architectury API (V7.1.81 → V7.1.86)
++ PuzzlesLib (v5.0.30 → v5.0.33)
++ OptiGUI (2.1.0-beta 2 → 2.1.0-beta 3)
+
+**Changed/Fixed**
++ Updated Discord RPC "Download" button URL.
++ Fixed recipes not showing in-game [#5](https://github.com/AMPZNetwork/All-The-Fabric-4/issues/5).
+
+**Added:**
++ Just Enough Items
+
+**Removed:**
++ Smooth Swapping
++ Roughly Enough Items
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-4)
+
+---------------------------------------------------------------------------------
 <h1>V7</h1>
 
 <h4>No old worlds are not compatible with previous worlds.</h4>
