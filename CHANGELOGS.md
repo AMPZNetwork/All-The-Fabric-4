@@ -4,6 +4,37 @@
 # All The Fabric 4 | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -----------------------------------------------------------------------------------------------
+<h1>V8</h1>
+
+_Minecraft 1.19.3_ | _Fabric Loader 0.14.21_
+
+<h4>All The Fabric 5 has begun development</h4>
+
+**Updated:**
++ Almost Unified (0.4.4 → 0.5.0)
++ Fabric Language Kotlin (v1.8.21 → v1.8.22)
++ OptiGui (2.1.0-beta 3 → 2.1.2 released)
+
+**Changed/Fixed**
++ Attepted to fixed recipes not showing in-game once again [#5](https://github.com/AMPZNetwork/All-The-Fabric-4/issues/5).
++ Fixed Tech Reborn machine recipes not displaying in-game [#6](https://github.com/AMPZNetwork/All-The-Fabric-4/issues/6).
++ Fixed our built-in pack displaying as incompatible.
++ Updated pack logo.
++ Updated Main Menu design.
+
+**Added:**
++ Rougly Enough Items
++ Forgotten Graves
++ Clumps
+
+**Removed:**
++ Universal Graves
++ Just Enough Items
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-4)
+
+---------------------------------------------------------------------------------
 <h1>V7.1</h1>
 
 <h4>No old worlds are not compatible with previous worlds.</h4>
