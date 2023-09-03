@@ -4,7 +4,7 @@
 
 ## Welcome to All The Fabric 4 
 
-This is the official repository for All The Fabric 4 1.19.3. If you encounter any bugs or issues with the modpack, please report them [here](https://github.com/AMPZNetwork/All-The-Fabric-4/issues/new?assignees=LabsZero&labels=Bug&projects=&template=bug-report.md&title=%5BBUG%5D). We are dedicated to providing the best experience for our users, and your feedback helps us achieve that goal. Thank you for choosing Fossilized. 
+This is the official repository for All The Fabric 4 1.19.3. If you encounter any bugs or issues with the modpack, please report them [here](https://github.com/AMPZNetwork/All-The-Fabric-4/issues/new?assignees=LabsZero&labels=Bug&projects=&template=bug-report.md&title=%5BBUG%5D). We are dedicated to providing the best experience for our users, and your feedback helps us achieve that goal. Thank you for choosing All The Fabric 4. 
     
 #### Modpack Links: 
 + [Modrinth](https://modrinth.com/modpack/all-the-fabric-4)
