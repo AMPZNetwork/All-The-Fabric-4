@@ -5,6 +5,45 @@
 
 ---
 
+## Version: 9
+
+_Minecraft 1.19.3_ | _Fabric Loader 0.14.24_
+
+### Updated:
+- Almost Unified (0.5.0 → 0.6.0)
+- BisectHosting Server Integration Menu (2.3.1 → 2.4.1)
+- Chunks fade in (v2.0.11 → v2.0.12-1)
+- ClearDespawn (1.1.10 → 1.1.11)
+- Cloth Config API (v9.0.94 → v9.1.104)
+- Continutity (3.0.0-beta2 → 3.0.0-beta3)
+- Default Options (16.0.1 → 16.0.2)
+- Drippy Loading Screen (v2.2.1 → v2.2.2)
+- Enhanced Block Entities (v0.8 → v0.8.1)
+- Fabric Language Kotlin (1.9.5 → 1.10.10)
+- Forgotten Graves (3.1.0 → 3.2.1)
+- Macaw's Bridges (v2.0.7 → v2.1.0)
+- Mod Menu (v5.1.0-beta4 → v5.1.0)
+- OptiGUI (2.1.2 → 2.1.6)
+- Reese's Sodium Options (1.4.9 → 1.6.4)
+- Refined Advancements (1.0.1d → 1.0.3c)
+- Roughly Enough Items (v10.0.620 → v10.0.646)
+- Simple Discord RPC (3.2.2 → 3.2.4)
+- Statement (4.2.5 → 4.2.8)  
+- Towns and Towers (v1.10.2 → v1.11.1)
+
+### Changed/Fixed
+- Fixed Towns and Towers causes installation errors on Modrinth [#8](https://github.com/AMPZNetwork/All-The-Fabric-4/issues/8).
+- Fixed chunk fading inconsistency issues.
+- Fixed Apple M1 compatibility.
+- Fixed broken villager ship loot table that caused the game to freeze/crash.
+- Fixed all bridge recipes unlock instantly.
+- Removed Suggestions and GitHub buttons as pack will be reaching its EOS soon.
+- General Performance improvements.
+
+For bug reports and issues, please visit our [Issue Tracker](https://github.com/AMPZNetwork/All-The-Fabric-4)
+
+---
+
 ## Version: 8
 
 _Minecraft 1.19.3_ | _Fabric Loader 0.14.21_
